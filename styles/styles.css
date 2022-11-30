@@ -165,3 +165,17 @@ button.header-button {
     border-radius: 5px;
     border-color: #F9FAF8;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    background-color: tomato;
+}
+
+.footer p{
+
+    color: #F9FAF8;
+    font-size:10px;
+}
