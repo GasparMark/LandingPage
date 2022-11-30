@@ -134,7 +134,34 @@ button.header-button {
     margin-right: 23%;
 }
 
-.button-container 
-{
-    
+.button-header{
+    font-weight: 900;
+    font-size: 18px;
+    margin:40px;
+}
+
+.button-subtext{
+    margin:0 0 40px 0;
+}
+
+.button-container{
+    margin:80px 150px 80px 150px;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+    height:140px;
+    width:1000px;
+    background-color: #3882F6;
+    border: 5px solid #3882F6;
+    border-radius: 25px;
+    display: flex;
+}
+
+.join {
+    align-self: center;
+    padding: 5px 25px 5px 25px;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border-radius: 5px;
+    border-color: #F9FAF8;
 }
